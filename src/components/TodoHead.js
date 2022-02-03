@@ -35,7 +35,7 @@ function TodoHead() {
              일요일
          </div>
          <div className="tasks-left">
-            할 일 2개 남음
+            할 일 2개 남음222
          </div>
      </TodoHeadBlock>
     )
